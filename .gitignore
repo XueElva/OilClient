@@ -71,3 +71,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.classpath
+*.project
+*.properties
+*.prefs
+*.properties
